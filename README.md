@@ -22,12 +22,12 @@ Core stack includes Python, TypeScript, FastAPI, Docker, and PostgreSQL. Alongsi
 
 My favourite way to learn a codebase is fixing a real bug in it. Everything below got merged:
 
-| Project | PRs | What I did | Status |
-|---|---|---|---|
-| **[FalkorDB](https://github.com/FalkorDB/FalkorDB)** — Graph database for GraphRAG & LLM knowledge graphs | [#3132](https://github.com/FalkorDB/FalkorDB/pull/3132) | Fixed query runtime null propagation for edge endpoints (`startNode`/`endNode`), matching C engine and openCypher parity | ✅ Merged · Oct 2026 |
-| **[Microsoft PyRIT](https://github.com/microsoft/PyRIT)** — AI red-teaming framework | [#2713](https://github.com/microsoft/PyRIT/pull/2713) · [#2670](https://github.com/microsoft/PyRIT/pull/2670) · [#2663](https://github.com/microsoft/PyRIT/pull/2663) | Fixed harm evaluation scoring accuracy, normalized taxonomy matching, restored target registry routing | ✅ Merged · Sep 2026 |
-| **[OpenClaw](https://github.com/openclaw/openclaw)** — autonomous AI agent | [#148118](https://github.com/openclaw/openclaw/pull/148118) | Fixed plugin lifecycle validation and package metadata persistence in Docker test suites | ✅ Merged · Sep 2026 |
-| **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — coding agent with the IDE wired in | [#11952](https://github.com/can1357/oh-my-pi/pull/11952) · [#11944](https://github.com/can1357/oh-my-pi/pull/11944) | Fixed LLM context-window fallback limits, resolved CLI session state recovery bugs | ✅ Merged · Sep 2026 |
+| Project | PRs | What I did |
+|---|---|---|
+| **[FalkorDB](https://github.com/FalkorDB/FalkorDB)** — Graph database for GraphRAG & LLM knowledge graphs | [#3132](https://github.com/FalkorDB/FalkorDB/pull/3132) | Fixed query runtime null propagation for edge endpoints (`startNode`/`endNode`), matching C engine and openCypher parity |
+| **[Microsoft PyRIT](https://github.com/microsoft/PyRIT)** — AI red-teaming framework | [#2713](https://github.com/microsoft/PyRIT/pull/2713) · [#2670](https://github.com/microsoft/PyRIT/pull/2670) · [#2663](https://github.com/microsoft/PyRIT/pull/2663) | Fixed harm evaluation scoring accuracy, normalized taxonomy matching, restored target registry routing |
+| **[OpenClaw](https://github.com/openclaw/openclaw)** — autonomous AI agent | [#148118](https://github.com/openclaw/openclaw/pull/148118) | Fixed plugin lifecycle validation and package metadata persistence in Docker test suites |
+| **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — coding agent with the IDE wired in | [#11952](https://github.com/can1357/oh-my-pi/pull/11952) · [#11944](https://github.com/can1357/oh-my-pi/pull/11944) | Fixed LLM context-window fallback limits, resolved CLI session state recovery bugs |
 
 ---
 
