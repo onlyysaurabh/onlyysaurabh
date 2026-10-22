@@ -1,6 +1,6 @@
 # Hi, I'm Saurabh 👋
 
-**AI engineer from Mumbai. I build LLM apps — then try to break them so they hold up in prod.**
+**AI Engineer specializing in production agentic systems, hybrid retrieval (RAG), and model evaluation & guardrails.**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabhyadav-tech/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-Half my time goes into building LLMs — agents, GraphRAG, and serving — and the other half into breaking them: AI red-teaming, guardrails, evals, and figuring out why the model hallucinated *that*. Honestly, trying to break models taught me more about building them than any course did.
+AI Engineer building production-grade LLM applications designed for enterprise reliability. My focus centers on deterministic multi-agent orchestration, hybrid RAG pipelines (dense + sparse retrieval), and automated evaluation gates (Ragas, PyRIT) to mitigate hallucinations and ensure robust tool execution.
 
-Day to day it's Python + TypeScript, FastAPI + Docker. If I catch myself doing something twice, I automate it before there's a third time. I learn in public — bugs I've squashed in open-source repos are below.
+Core stack includes Python, TypeScript, FastAPI, Docker, and PostgreSQL. Alongside shipping production microservices and data pipelines, I actively contribute upstream to open-source AI infrastructure, including Microsoft PyRIT (AI red-teaming) and FalkorDB (graph-based retrieval).
 
-**Currently into:** agentic workflows · RAG that actually retrieves · evals people trust · jailbreaks that shouldn't work (but do)
+**Core Focus:** Agentic Workflows (LangGraph, MCP) · Hybrid RAG (pgvector, BM25) · Automated Evaluation (Ragas) · AI Safety & Red-Teaming (PyRIT)
 
 ---
 
@@ -28,6 +28,23 @@ My favourite way to learn a codebase is fixing a real bug in it. Everything belo
 | **[Microsoft PyRIT](https://github.com/microsoft/PyRIT)** — AI red-teaming framework | [#2713](https://github.com/microsoft/PyRIT/pull/2713) · [#2670](https://github.com/microsoft/PyRIT/pull/2670) · [#2663](https://github.com/microsoft/PyRIT/pull/2663) | Fixed harm evaluation scoring accuracy, normalized taxonomy matching, restored target registry routing | ✅ Merged · Sep 2026 |
 | **[OpenClaw](https://github.com/openclaw/openclaw)** — autonomous AI agent | [#148118](https://github.com/openclaw/openclaw/pull/148118) | Fixed plugin lifecycle validation and package metadata persistence in Docker test suites | ✅ Merged · Sep 2026 |
 | **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — coding agent with the IDE wired in | [#11952](https://github.com/can1357/oh-my-pi/pull/11952) · [#11944](https://github.com/can1357/oh-my-pi/pull/11944) | Fixed LLM context-window fallback limits, resolved CLI session state recovery bugs | ✅ Merged · Sep 2026 |
+
+---
+
+## 🏆 Certifications
+
+The paperwork behind the claims:
+
+| Issuer | Certification | Verify |
+|---|---|---|
+| Microsoft | **Azure AI Engineer Associate** | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/Saurabh-Yadav/33314290DBB0DC0F?sharingId=F437589186A278AC) |
+| GitHub | **Agentic AI Developer** | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/Saurabh-Yadav/45B8767B0B488809?sharingId=F437589186A278AC) |
+| Google Cloud | **Generative AI Leader** | [View badge](https://www.credly.com/badges/2c7eab63-943f-4365-a409-8803a2cfcebf/public_url) |
+
+<p align="left">
+<a href="https://www.credly.com/users/saurabh-yadav.3e72b8cd" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+<a href="https://www.credential.net/profile/saurabhyadav638473/wallet" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Credential.net-0062FF?style=for-the-badge" alt="Credential.net" /></a>
+</p>
 
 ---
 
@@ -71,23 +88,6 @@ What I actually reach for most days. The badges are the highlights — the full 
 
 ---
 
-## 🏆 Certifications
-
-The paperwork behind the claims:
-
-| Issuer | Certification | Verify |
-|---|---|---|
-| Microsoft | **Azure AI Engineer Associate** | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/Saurabh-Yadav/33314290DBB0DC0F?sharingId=F437589186A278AC) |
-| GitHub | **Agentic AI Developer** | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/Saurabh-Yadav/45B8767B0B488809?sharingId=F437589186A278AC) |
-| Google Cloud | **Generative AI Leader** | [View badge](https://www.credly.com/badges/2c7eab63-943f-4365-a409-8803a2cfcebf/public_url) |
-
-<p align="left">
-<a href="https://www.credly.com/users/saurabh-yadav.3e72b8cd" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
-<a href="https://www.credential.net/profile/saurabhyadav638473/wallet" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Credential.net-0062FF?style=for-the-badge" alt="Credential.net" /></a>
-</p>
-
----
-
 ## 🎓 Education
 
 - **B.E. in Computer Engineering** | University of Mumbai (2021 - 2025)
@@ -100,5 +100,5 @@ The paperwork behind the claims:
 - 💼 LinkedIn: [linkedin.com/in/saurabhyadav-tech](https://www.linkedin.com/in/saurabhyadav-tech/)
 - 📧 Email: [saurabhyadav1610@gmail.com](mailto:saurabhyadav1610@gmail.com)
 - 🐙 GitHub: [github.com/onlyysaurabh](https://github.com/onlyysaurabh/)
-- 🤝 Open to AI Engineer roles, internships, and OSS collabs on evals, guardrails, and red-teaming.
+- 🤝 Open to AI Engineer and Applied AI roles, and OSS collabs on evals, guardrails, and agentic systems.
 
