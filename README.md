@@ -6,20 +6,15 @@
 <a href="https://www.linkedin.com/in/saurabhyadav-tech/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:saurabhyadav1610@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/onlyysaurabh/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.credly.com/users/saurabh-yadav.3e72b8cd" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
 </p>
 
 ## 👨‍💻 About Me
 
-Most of my time goes into LLMs — agents, RAG, fine-tuning, serving — and the unglamorous half nobody puts in demos: evals, guardrails, and figuring out why the model did *that*.
+Half my time goes into building LLMs — agents, GraphRAG, and serving — and the other half into breaking them: AI red-teaming, guardrails, evals, and figuring out why the model hallucinated *that*. Honestly, trying to break models taught me more about building them than any course did.
 
-The other half goes into security: AI red-teaming, poking at LLM vulnerabilities, reverse engineering, PII safety. Honestly, trying to break models taught me more about building them than any course did.
-
-Day to day it's Python + TypeScript, FastAPI + Next.js, Postgres + Redis, everything in Docker. And if I catch myself doing something twice, I automate it before there's a third time.
+Day to day it's Python + TypeScript, FastAPI + Docker. If I catch myself doing something twice, I automate it before there's a third time. I learn in public — bugs I've squashed in open-source repos are below.
 
 **Currently into:** agentic workflows · RAG that actually retrieves · evals people trust · jailbreaks that shouldn't work (but do)
-
-I learn in public, so most of this ends up on GitHub — fixes in other people's repos below, my own experiments scattered around my profile. Always up for talking shop.
 
 ---
 
@@ -29,9 +24,10 @@ My favourite way to learn a codebase is fixing a real bug in it. Everything belo
 
 | Project | PRs | What I did | Status |
 |---|---|---|---|
+| **[FalkorDB](https://github.com/FalkorDB/FalkorDB)** — Graph database for GraphRAG & LLM knowledge graphs | [#3132](https://github.com/FalkorDB/FalkorDB/pull/3132) | Fixed query runtime null propagation for edge endpoints (`startNode`/`endNode`), matching C engine and openCypher parity | ✅ Merged · Oct 2026 |
 | **[Microsoft PyRIT](https://github.com/microsoft/PyRIT)** — AI red-teaming framework | [#2713](https://github.com/microsoft/PyRIT/pull/2713) · [#2670](https://github.com/microsoft/PyRIT/pull/2670) · [#2663](https://github.com/microsoft/PyRIT/pull/2663) | Fixed harm evaluation scoring accuracy, normalized taxonomy matching, restored target registry routing | ✅ Merged · Sep 2026 |
-| **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — coding agent with the IDE wired in | [#11952](https://github.com/can1357/oh-my-pi/pull/11952) · [#11944](https://github.com/can1357/oh-my-pi/pull/11944) | Fixed LLM context-window fallback limits, resolved CLI session state recovery bugs | ✅ Merged · Sep 2026 |
 | **[OpenClaw](https://github.com/openclaw/openclaw)** — autonomous AI agent | [#148118](https://github.com/openclaw/openclaw/pull/148118) | Fixed plugin lifecycle validation and package metadata persistence in Docker test suites | ✅ Merged · Sep 2026 |
+| **[oh-my-pi](https://github.com/can1357/oh-my-pi)** — coding agent with the IDE wired in | [#11952](https://github.com/can1357/oh-my-pi/pull/11952) · [#11944](https://github.com/can1357/oh-my-pi/pull/11944) | Fixed LLM context-window fallback limits, resolved CLI session state recovery bugs | ✅ Merged · Sep 2026 |
 
 ---
 
@@ -44,6 +40,7 @@ What I actually reach for most days. The badges are the highlights — the full 
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/MCP-FastMCP-000000?style=for-the-badge" alt="MCP / FastMCP" />
   <img src="https://img.shields.io/badge/RAG-pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG with pgvector" />
+  <img src="https://img.shields.io/badge/GraphRAG-FalkorDB-FF4438?style=for-the-badge" alt="GraphRAG with FalkorDB" />
   <img src="https://img.shields.io/badge/vLLM-646464?style=for-the-badge" alt="vLLM" />
   <img src="https://img.shields.io/badge/QLoRA-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="QLoRA" />
   <img src="https://img.shields.io/badge/Ragas-0052CC?style=for-the-badge" alt="Ragas" />
@@ -84,11 +81,16 @@ The paperwork behind the claims:
 | GitHub | **Agentic AI Developer** | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/Saurabh-Yadav/45B8767B0B488809?sharingId=F437589186A278AC) |
 | Google Cloud | **Generative AI Leader** | [View badge](https://www.credly.com/badges/2c7eab63-943f-4365-a409-8803a2cfcebf/public_url) |
 
+<p align="left">
+<a href="https://www.credly.com/users/saurabh-yadav.3e72b8cd" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+<a href="https://www.credential.net/profile/saurabhyadav638473/wallet" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Credential.net-0062FF?style=for-the-badge" alt="Credential.net" /></a>
+</p>
+
 ---
 
 ## 🎓 Education
 
-- **B.E. in Computer Engineering** | MCT's Rajiv Gandhi Institute of Technology, Mumbai (2021 - 2025)
+- **B.E. in Computer Engineering** | University of Mumbai (2021 - 2025)
 
 ---
 
@@ -98,11 +100,5 @@ The paperwork behind the claims:
 - 💼 LinkedIn: [linkedin.com/in/saurabhyadav-tech](https://www.linkedin.com/in/saurabhyadav-tech/)
 - 📧 Email: [saurabhyadav1610@gmail.com](mailto:saurabhyadav1610@gmail.com)
 - 🐙 GitHub: [github.com/onlyysaurabh](https://github.com/onlyysaurabh/)
-- 🤝 Open to AI Engineer roles, internships, and OSS collabs on evals, guardrails, and red-teaming. Best opener: an LLM failure mode you've seen in the wild.
+- 🤝 Open to AI Engineer roles, internships, and OSS collabs on evals, guardrails, and red-teaming.
 
----
-
-<p align="center">
-  <img width="430" src="https://github-readme-stats.vercel.app/api?username=onlyysaurabh&show_icons=true&theme=tokyonight&hide_border=true" alt="onlyysaurabh's GitHub stats" />
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyysaurabh&layout=compact&theme=tokyonight&hide_border=true" alt="onlyysaurabh's top languages" />
-</p>
